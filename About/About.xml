@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Permanent Heat and Cold</name>
+	<author>Angelin01</author>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+    </supportedVersions>
+	<description>Enables choosing heat wave and cold snap as starting permanent scenario conditions.</description>
+	<packageId>angelin01.permanentheatcold</packageId>
+</ModMetaData>
