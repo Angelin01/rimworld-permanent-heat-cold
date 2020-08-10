@@ -7,6 +7,7 @@
     <supportedVersions>
         <li>1.0</li>
         <li>1.1</li>
+        <li>1.2</li>
     </supportedVersions>
 	<description>Enables choosing heat wave and cold snap as starting permanent scenario conditions.</description>
 	<packageId>angelin01.permanentheatcold</packageId>
