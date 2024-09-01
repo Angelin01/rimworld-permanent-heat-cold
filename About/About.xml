@@ -11,6 +11,9 @@
         <li>1.3</li>
 		<li>1.4</li>
         <li>1.5</li>
+        <li>1.6</li>
+        <li>1.7</li>
+        <li>1.8</li>
     </supportedVersions>
 	<description>Enables choosing heat wave and cold snap as starting permanent scenario conditions.</description>
 	<packageId>angelin01.permanentheatcold</packageId>
